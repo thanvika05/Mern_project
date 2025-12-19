@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"; // Add this import
-import storeImage from './assetsone/chrisitems.jpg';
+import storeImage from './assetsone/chrismas.jpg';
 export default function Home() {
     return (
         <div style={{ padding: '20px' }}>
